@@ -1,4 +1,4 @@
-# Tutorial for Workshop on Classical and Quantum Machine Learning for Condensed Matter Physics
+# Tutorial for Workshop on Classical and Quantum Machine Learning for Condensed Matter Physics 2024
 
 ## Overview
 
