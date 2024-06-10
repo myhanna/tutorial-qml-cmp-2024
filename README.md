@@ -4,7 +4,7 @@
 
 ## Installation
 
-If you encounter any issues with this tutorial, please do not hesitate to contact me at [muha207(at)brin.go.id]().
+If you happen to encounter any issues with this tutorial, please do not hesitate to contact me at [muha207(at)brin.go.id]().
 
-Looking forward to seeing you at the tutorial!
+I am looking forward to seeing you at the tutorial!
 M. Y. Hanna
