@@ -35,4 +35,5 @@ If you face resource issues on your PC or laptop, you can use [Google Colab](htt
 If you happen to encounter any issues with this tutorial, please do not hesitate to contact me at [muha207(at)brin.go.id]().
 
 I look forward to seeing you at the tutorial :D
+
 M. Y. Hanna
